@@ -1,5 +1,3 @@
-# ShadowFox-ML-Internship
-Machine Learning Engineer Internship Projects – ShadowFox
 # ShadowFox – Machine Learning Engineer Internship
 
 ## Beginner Level Project: Smart Autocorrect and Next Word Prediction System
