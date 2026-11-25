@@ -69,4 +69,4 @@ This project demonstrates the application of basic NLP techniques for spelling c
 
 **Internship:** ShadowFox – Machine Learning Engineer Internship  
 **Project Level:** Beginner  
-**Domain:** Artificial Intelligence and Natural Language Processing
+**Domain:** Machine learning engineer
