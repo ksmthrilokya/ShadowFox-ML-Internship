@@ -1,72 +1,111 @@
-# ShadowFox – Machine Learning Engineer Internship
+# ShadowFox – Machine Learning Internship
 
-## Beginner Level Project: Smart Autocorrect and Next Word Prediction System
+Welcome to my **ShadowFox Machine Learning Internship** project repository. This repository contains the tasks undertaken across Beginner, Intermediate, and Advanced levels as part of the internship.
 
-### 1. Project Overview
-This project is developed as part of the ShadowFox Machine Learning Engineer Internship.
+## About the Internship
 
-The Smart Autocorrect and Next Word Prediction System is a basic Natural Language Processing (NLP) application that identifies spelling mistakes, suggests corrected words, and predicts possible next words based on the input text.
+The internship provides practical exposure to Machine Learning, Python programming, data analysis, and language models through hands-on tasks and projects.
 
-### 2. Objectives
-- Identify spelling mistakes in user input.
-- Suggest appropriate corrections.
-- Implement a Bigram Language Model.
-- Predict possible next words.
-- Understand basic NLP concepts using Python.
+## Technologies Used
 
-### 3. Technologies Used
 - Python
 - Jupyter Notebook
-- Regular Expressions
-- Collections Library
-- Difflib Library
-- Natural Language Processing (NLP)
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Difflib
+- Machine Learning and NLP concepts
 
-### 4. Methodology
-1. Collect sample text data.
-2. Perform text preprocessing and tokenization.
-3. Create a vocabulary from the sample corpus.
-4. Identify incorrect words using similarity matching.
-5. Suggest corrected words.
-6. Build a Bigram Language Model.
-7. Generate next-word predictions.
+---
 
-### 5. Project Structure
+## Level 1: Beginner – Autocorrect System
+
+**Objective:** Develop a basic autocorrect system that identifies possible spelling mistakes and suggests corrections, with an introduction to next-word prediction.
+
+**Work Completed:**
+- Created a basic autocorrect prototype.
+- Used similarity matching to suggest corrections.
+- Explored bigram-based next-word prediction.
+
+**Tools:** Python, Difflib, Jupyter Notebook
+
+**Project File:** `Beginner/Autocorrect.ipynb`
+
+---
+
+## Level 2: Intermediate – Store Sales and Profit Analysis
+
+**Objective:** Analyze a Superstore dataset to understand sales, profit, and business performance.
+
+**Dataset Details:**
+- Total Records: 9,994
+- Total Columns: 21
+
+**Work Completed:**
+- Dataset loading and exploration.
+- Data preprocessing and missing-value analysis.
+- Statistical analysis.
+- Category-wise sales and profit analysis.
+- Region-wise sales and profit analysis.
+- Data visualization.
+- Monthly sales trend analysis.
+- Business insights.
+
+**Key Results:**
+- Total Sales: 2,297,200.86
+- Total Profit: 286,397.02
+- Total Quantity Sold: 37,873
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+**Project File:** `Intermediate/ShadowFox_Store_Sales_Analysis.ipynb`
+
+---
+
+## Level 3: Advanced – Language Model
+
+**Objective:** Work on a language model project as part of the Advanced internship level.
+
+**Status:** In Progress
+
+**Project File:** `Advanced/Language_Model.ipynb`
+
+---
+
+## Repository Structure
+
 ```text
 ShadowFox-ML-Internship/
 │
 ├── Beginner/
-│   └── ShadowFox_Autocorrect_System.ipynb
+│   ├── README.md
+│   └── Autocorrect.ipynb
+│
+├── Intermediate/
+│   ├── README.md
+│   └── ShadowFox_Store_Sales_Analysis.ipynb
+│
+├── Advanced/
+│   └── Language_Model.ipynb
 │
 └── README.md
 ```
 
-### 6. How to Run
-1. Clone or download this repository.
-2. Open the Jupyter Notebook.
-3. Run the notebook cells sequentially.
-4. Enter different sample sentences to test spelling correction and next-word prediction.
+## Learning Outcomes
 
-### 7. Expected Output
-The system displays:
-- Original input text
-- Corrected text
-- Suggested next words
+- Practiced Python programming and Jupyter Notebook.
+- Learned data exploration and preprocessing.
+- Developed data analysis and visualization skills.
+- Explored basic NLP concepts.
+- Gained practical experience through hands-on projects.
 
-### 8. Learning Outcomes
-Through this project, I gained practical understanding of:
-- Text preprocessing
-- Tokenization
-- Vocabulary creation
-- Spelling correction
-- Bigram Language Models
-- Next-word prediction
+## Author
 
-### 9. Conclusion
-This project demonstrates the application of basic NLP techniques for spelling correction and next-word prediction. It provides a foundation for understanding language models and intelligent text-processing systems.
+**Kolluru Sai Mani Thrilokya**
+
+GitHub: [ksmthrilokya](https://github.com/ksmthrilokya)
 
 ---
 
-**Internship:** ShadowFox – Machine Learning Engineer Internship  
-**Project Level:** Beginner  
-**Domain:** Machine learning engineer
+*This repository documents my learning and project progress during the ShadowFox Machine Learning Internship.*
